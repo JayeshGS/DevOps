@@ -1,3 +1,0 @@
-This is our 3rd file
-
-Amend file 3 in staging area
