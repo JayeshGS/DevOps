@@ -1,1 +1,2 @@
 Add new line in file3
+Stash test
